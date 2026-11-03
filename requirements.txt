@@ -1,3 +1,2 @@
-Requirements.TXT
 python-telegram-bot>=21.0,<23.0
 google-genai>=1.0.0
